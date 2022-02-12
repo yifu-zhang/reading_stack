@@ -1,0 +1,3 @@
+Fundamentals of Computer Graphics Chapter 4 Ray Tracing (fcg_4) ---------- Ray Tracing Volume Densities ------ Summary
+									  /	      (main)		
+Blinn 1982 (ongoing) ----------------------------------------------------/
